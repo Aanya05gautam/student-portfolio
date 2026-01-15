@@ -59,40 +59,65 @@ student-portfolio/
 
 📱 Pages Overview
 🏠 Home Page
+
 Personal introduction
+
 Short description and role
+
 Clean hero section
 
+
 📁 Projects Page
+
 Display of personal or academic projects
+
 Simple project cards with descriptions
+
 Easily extendable for future projects
 
+
 🌱 Learning Outcomes
+
 Through this project, I gained hands-on experience in:
+
 Structuring React applications using Vite
+
 Building reusable and modular components
+
 Implementing client-side routing
+
 Designing responsive layouts using Tailwind CSS
+
 Managing source code with Git and GitHub
+
 Writing clean and maintainable frontend code
 
+
 🚧 Future Enhancements
+
 🌙 Dark mode support
+
 ✨ Animations and transitions (Framer Motion)
+
 📬 Contact form with validation
+
 🌍 Deployment on Netlify or Vercel
+
 🔗 Social media and GitHub profile links
 
+
 👩‍💻 Author
+
 Aanya Gautam
 B.Tech Computer Science & Engineering
 Frontend Development Enthusiast
 
 📄 License
+
 This project is open-source and available for learning and personal use.
 
 ⭐ Final Note
+
 This project represents my understanding of modern frontend technologies and my ability to design responsive and scalable user interfaces.
 If you find this project helpful, feel free to ⭐ star the repository or provide feedback!
 
